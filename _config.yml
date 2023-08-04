@@ -1,33 +1,33 @@
 # Site
-name: "Kothing"
-title: "Kothing"
-description: "Kothing bloggers. Review products, books, movies, restaurant and anything you like on your blog with Kothing"
+name: "HODP"
+title: "HODP"
+description: "HODP = Harvard Open Data Project"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 include: ["_pages"]
 permalink: /:title/
-locale: 'zh-cn'
+locale: 'en'
 
 # Authors
 authors:
-  Kothing:
-    name: Kothing
-    display_name: Kothing
+  HODP:
+    name: HODP
+    display_name: HODP
     gravatar: 2c8b65b07e824ea91b649a8c57af8a28
-    email: 'kothing@outlook.com'
-    web: https://www.kothing.com
+    email: 'HODP@outlook.com'
+    web: https://www.HODP.com
     twitter: ''
-    description: "Author of Kothing, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  Lyove:
-    name: Lyove
-    display_name: Lyove    
+    description: "Author of HODP."
+  Lone:
+    name: Lone
+    display_name: Lone    
     avatar: 'assets/images/avatar.png'
     gravatar: 8d1f1b3a0bd5557ee60cb3277f1c0497
-    email: 'lyove@outlook.com'
-    web: https://www.lyove.com
+    email: 'Lone@outlook.com'
+    web: https://www.Lone.com
     twitter: ''
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Kothing demo, a Jekyll template compatible with Github pages."
+    description: "T"
 
 # Plugins
 plugins:
