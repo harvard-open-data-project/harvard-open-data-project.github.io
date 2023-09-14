@@ -1,57 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//harvard-open-data-project.local/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//harvard-open-data-project.github.io/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://harvard-open-data-project.local/articles/</loc>
+		<loc>https://harvard-open-data-project.github.io/articles/</loc>
 		<lastmod>2023-09-14T02:13:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://harvard-open-data-project.local/</loc>
+		<loc>https://harvard-open-data-project.github.io/</loc>
 		<lastmod>2023-09-14T04:08:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://harvard-open-data-project.local/about/</loc>
+		<loc>https://harvard-open-data-project.github.io/about/</loc>
 		<lastmod>2023-09-14T04:07:38+00:00</lastmod>
 		<image:image>
-			<image:loc>http://harvard-open-data-project.local/wp-content/uploads/2023/09/image-1.png</image:loc>
+			<image:loc>http://harvard-open-data-project.github.io/wp-content/uploads/2023/09/image-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://harvard-open-data-project.local/datasets/</loc>
+		<loc>https://harvard-open-data-project.github.io/datasets/</loc>
 		<lastmod>2023-09-14T04:04:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://harvard-open-data-project.local/data-wrangling-with-r/</loc>
+		<loc>https://harvard-open-data-project.github.io/data-wrangling-with-r/</loc>
 		<lastmod>2023-09-14T02:10:29+00:00</lastmod>
 		<image:image>
-			<image:loc>http://harvard-open-data-project.local/wp-content/uploads/2023/09/image.png</image:loc>
+			<image:loc>http://harvard-open-data-project.github.io/wp-content/uploads/2023/09/image.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://harvard-open-data-project.local/data-wrangling-with-numpy-pandas/</loc>
+		<loc>https://harvard-open-data-project.github.io/data-wrangling-with-numpy-pandas/</loc>
 		<lastmod>2023-09-14T01:59:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://harvard-open-data-project.local/data-wrangling-with-python-intermediate/</loc>
+		<loc>https://harvard-open-data-project.github.io/data-wrangling-with-python-intermediate/</loc>
 		<lastmod>2023-09-14T01:54:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://harvard-open-data-project.local/python-data-wrangling/</loc>
+		<loc>https://harvard-open-data-project.github.io/python-data-wrangling/</loc>
 		<lastmod>2023-09-13T09:19:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://harvard-open-data-project.local/website-guide/</loc>
+		<loc>https://harvard-open-data-project.github.io/website-guide/</loc>
 		<lastmod>2023-09-13T08:43:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://harvard-open-data-project.local/writing-data-driven-articles/</loc>
+		<loc>https://harvard-open-data-project.github.io/writing-data-driven-articles/</loc>
 		<lastmod>2023-09-13T08:41:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://harvard-open-data-project.local/best-practices/</loc>
+		<loc>https://harvard-open-data-project.github.io/best-practices/</loc>
 		<lastmod>2023-09-13T08:37:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://harvard-open-data-project.local/quickstart-installation-guide-for-hodp/</loc>
+		<loc>https://harvard-open-data-project.github.io/quickstart-installation-guide-for-hodp/</loc>
 		<lastmod>2023-09-13T08:15:05+00:00</lastmod>
 	</url>
 </urlset>
